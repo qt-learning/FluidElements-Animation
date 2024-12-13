@@ -50,5 +50,17 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
-
 *_qmlcache.qrc
+
+# VS Code
+.vscode/
+.cache/
+
+# DS_Store files on macOS
+.DS_Store
+
+# Build directories
+/build/
+*/build-*/
+*/build/
+*/builds/
